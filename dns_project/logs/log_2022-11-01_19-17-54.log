@@ -1,0 +1,22 @@
+
+-----
+Test: test_main_page_catalog.py::test_main_page_catalog (call)
+Start time: 2022-11-01 19:17:56.851453
+Start name method: select_product_in_menu
+
+End time: 2022-11-01 19:18:23.270829
+End name method: select_product_in_menu
+URL: https://www.dns-shop.ru/catalog/recipe/a929745586a086a1/8k/
+
+-----
+
+-----
+Test: test_main_page_catalog.py::test_main_page_catalog (call)
+Start time: 2022-11-01 19:18:23.270829
+Start name method: check_menu_catalog
+
+End time: 2022-11-01 19:18:26.676867
+End name method: check_menu_catalog
+URL: https://www.dns-shop.ru/catalog/recipe/a929745586a086a1/8k/
+
+-----
