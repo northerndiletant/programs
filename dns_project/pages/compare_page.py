@@ -17,15 +17,15 @@ class Compare_page(Base):
     # Locators
 
     catalog_button = "//div[@class='base-ui-button base-ui-button_brand']"
-    tv_name_1_compare = "//a[@href='/product/181f72d4af733330/28-70-sm-televizor-led-lg-28tn515s-pz-cernyj/']"
-    tv_price_1_compare = "//span[@id='8183749']//*[@class='product-min-price__current']"
-    tv_name_2_compare = "//a[@href='/product/665360cb564cc824/32-81-sm-televizor-led-candy-uno-32-cernyj/']"
-    tv_price_2_compare = "//span[@id='5349630']//*[@class='product-min-price__current']"
+    tv_name_1_compare = "//div[@class='products-slider__item'][1]//*[@class='base-ui-link base-ui-link_black']"
+    tv_price_1_compare = "//div[@class='products-slider__item'][1]//*[@class='product-min-price__current']"
+    tv_name_2_compare = "//div[@class='products-slider__item'][2]//*[@class='base-ui-link base-ui-link_black']"
+    tv_price_2_compare = "//div[@class='products-slider__item'][2]//*[@class='product-min-price__current']"
     delete_all = "//span[@class='clear-app__link']"
 
     # Required text
 
-    comp_text_1 = '28" (70 см) Телевизор LED LG 28TN515S-PZ черный'
+    comp_text_1 = '50" (127 см) Телевизор LED DEXP U50G9000C/G серый'
     comp_text_2 = '25 499 ₽'
     comp_text_3 = '32" (81 см) Телевизор LED Candy Uno 32 черный'
     comp_text_4 = '15 499 ₽'

@@ -56,10 +56,10 @@ class Catalog_product_selection_page(Base):
     compare_checkbox_1 = "//div[@data-code='5349630']//*[@class='ui-checkbox']"
     reset_button = "//button[@data-role='filters-reset']"
     price_checkbox_televisions_2 = "//div[@data-id='price']//*[@class='ui-checkbox ui-checkbox_list'][3]"
-    tv_2 = "//div[@data-code='8183749']"
-    tv_name_2 = "//div[@data-code='8183749']//*[@class='catalog-product__name ui-link ui-link_black']"
-    tv_price_2 = "//div[@data-code='8183749']//*[@class='product-buy__price']"
-    compare_checkbox_2 = "//div[@data-code='8183749']//*[@class='ui-checkbox']"
+    tv_2 = "//div[@data-code='5017386']"
+    tv_name_2 = "//div[@data-code='5017386']//*[@class='catalog-product__name ui-link ui-link_black']"
+    tv_price_2 = "//div[@data-code='5017386']//*[@class='product-buy__price']"
+    compare_checkbox_2 = "//div[@data-code='5017386']//*[@class='ui-checkbox']"
     compare_button_catalog = "//span[@class='compare-link__lbl']"
 
     # Required text
@@ -74,7 +74,7 @@ class Catalog_product_selection_page(Base):
 
     cpsp_text_6 = '32" (81 см) Телевизор LED Candy Uno 32 черный [HD, 1366x768, Wi-Fi, 60 Гц, Android TV, HDMI х 3, USB х 2]'
     cpsp_text_7 = '15 499 ₽'
-    cpsp_text_8 = '28" (70 см) Телевизор LED LG 28TN515S-PZ черный [HD, 1366x768, Wi-Fi, 60 Гц, webOS, HDMI х 2, USB х 1]'
+    cpsp_text_8 = '50" (127 см) Телевизор LED DEXP U50G9000C/G серый [4K UltraHD, 3840x2160, Wi-Fi, 60 Гц, Яндекс.ТВ, HDMI х 3, USB х 2]'
     cpsp_text_9 = '25 499 ₽'
 
 
